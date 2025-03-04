@@ -1,0 +1,8 @@
+name: ai4beg
+channels:
+ - defaults
+dependencies:
+- python=3.8
+- openai
+- python-dotenv
+- azure-ai-inference
